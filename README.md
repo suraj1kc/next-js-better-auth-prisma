@@ -23,7 +23,7 @@ A modern authentication template for Next.js 15+ applications using the [better-
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/next-js-better-auth.git
+   git clone https://github.com/suraj1kc/next-js-better-auth.git
    cd next-js-better-auth
    ```
 
